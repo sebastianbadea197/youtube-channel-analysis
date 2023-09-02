@@ -2,6 +2,8 @@
 
 ## Description
 
-A small analysis of several youtube channels focused on urban planning.
+A project analysing the engagement of 10 popular urban planning youtube channels on Youtube, using the Youtube API.
 
-This follows the tutorial posted by [Thu Vu data analytics](https://youtu.be/D56_Cx36oGY), with  relevant modifications in order to include other relevant metrics
+## How to run
+
+Checkout the file `youtube_channel_analysis.ipynb` in order to see the analysis.
